@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello from the second developer!\n");
+    printf("Hello from the team! v1.0.1\n");
     return 0;
 }
